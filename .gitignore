@@ -1,6 +1,8 @@
 # Compiled class file
 *.class
-
+.idea/
+.mvn/
+Greedy-Snake.iml/
 # Log file
 *.log
 
